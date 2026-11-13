@@ -1,0 +1,107 @@
+{
+  "generated_count": 9,
+  "sku_reference_count": 2,
+  "listing_final_count": 7,
+  "all_square": true,
+  "images": [
+    {
+      "id": "sku-50",
+      "title": "50×20 单窝参考",
+      "file": "sku/sku-50x20-gris-claro.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1961282,
+      "sha256": "79ac2250494369c5365e688d77eb5648d19fd6f89f51e55064e4c27d99adfc17",
+      "role": "sku-reference",
+      "text_check": "no marketing text"
+    },
+    {
+      "id": "sku-65",
+      "title": "65×22 单窝参考",
+      "file": "sku/sku-65x22-gris-claro.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1869011,
+      "sha256": "cdd8252b0284a18db3ec39455f691a091f2d2e778efc6c8ddf77804464e684b6",
+      "role": "sku-reference",
+      "text_check": "no marketing text"
+    },
+    {
+      "id": "hero-01",
+      "title": "主图：休息体验",
+      "file": "images/hero-01-single-bed.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2542738,
+      "sha256": "f06858d97cc322c7ca6de03e0c6ad8a5fcba22be3f9a4ec5b679d68d00b5bc59",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    },
+    {
+      "id": "detail-01",
+      "title": "详情1：绒面抽条",
+      "file": "images/detail-01-plush-texture.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2466601,
+      "sha256": "418be10c73a272f31033803f546d25f3b90ca093714cdb021f3d8c3a975a1cf2",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    },
+    {
+      "id": "detail-02",
+      "title": "详情2：围边枕靠",
+      "file": "images/detail-02-bolster-rest.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2585076,
+      "sha256": "07ce2275fd65f5b1e944c8a4f6a6c52bf32bbd0ca06aaedc3b6fa1f354288bc5",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    },
+    {
+      "id": "detail-03",
+      "title": "详情3：低开口",
+      "file": "images/detail-03-low-entry.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2608566,
+      "sha256": "272103498a27db1bec4946fb00694c11350029b49c7daa2a06fc9010807f183b",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    },
+    {
+      "id": "detail-04",
+      "title": "详情4：多室内场景",
+      "file": "images/detail-04-home-spaces.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2558500,
+      "sha256": "4f129aabdfb874ae58b77bd1538445a98701784b1da1c2df0259d9282e928ebe",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    },
+    {
+      "id": "detail-05",
+      "title": "详情5：颜色选择",
+      "file": "images/detail-05-four-colours.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2520174,
+      "sha256": "ef0a458bc8a9258d1a2ae270026673f8510fd4ab78a505d422bd29e22b9268ce",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    },
+    {
+      "id": "detail-06",
+      "title": "详情6：两规格独立选择",
+      "file": "images/detail-06-two-size-options.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2617034,
+      "sha256": "f709a9bd10ce7523b13009e48692e5d44c845f9a8cfb5e42c86a0ed2576a6249",
+      "role": "listing-final",
+      "text_check": "manually checked against prompt"
+    }
+  ]
+}
