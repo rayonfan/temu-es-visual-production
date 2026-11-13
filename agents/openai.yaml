@@ -1,4 +1,4 @@
 interface:
   display_name: "Temu 西班牙商品图"
-  short_description: "先询问商品信息和参考图并提供示例，收到资料后制作西语主图和独立详情图"
-  default_prompt: "使用 $temu-es-visual-production，先询问我本次商品、实际售卖配置和参考图片，并给出填写模板与示例；收到资料后按实际单卖或套装方式处理，必要时先提取独立 SKU，再调研西班牙竞品、输出逐图方案并直接生成 1 张主图和 6 张独立详情图，全部 1:1。"
+  short_description: "先询问商品、SKU和存放路径，制作西语图文后自动按SKU建文件夹归档七张成品"
+  default_prompt: "使用 $temu-es-visual-production，先询问商品、售卖配置、SKU、参考图和图片存放路径，并给出模板与示例；收到资料后调研、策划并生成1张主图和6张独立详情图，全部1:1，完成后在所选目录下新建SKU文件夹，只放这7张成品图。"
